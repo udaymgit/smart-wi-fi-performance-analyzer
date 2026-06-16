@@ -43,4 +43,4 @@ streamlit run app.py
 
 ## Author
 
-Uday
+Uday M
