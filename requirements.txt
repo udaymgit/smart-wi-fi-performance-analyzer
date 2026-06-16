@@ -1,4 +1,4 @@
-app.py
-scanner.py
-visualization.py
-wifi_analysis.csv
+streamlit
+pandas
+pywifi
+matplotlib
