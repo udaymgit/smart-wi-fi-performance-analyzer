@@ -85,16 +85,6 @@ smart-wi-fi-performance-analyzer/
 <img width="1920" height="1020" alt="2026-06-17" src="https://github.com/user-attachments/assets/7a1d590f-b3c5-4eb5-8481-796dcf4ea595" />
 
 
-```markdown
-![Dashboard](images/dashboard.png)
-```
-```
-
-### Network Visualization
-
-```markdown
-![Visualization](images/visualization.png)
-```
 
 ---
 
